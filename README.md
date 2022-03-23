@@ -17,4 +17,8 @@ In this homework assignment, I was tasked with recreating a given portfolio site
 
 ![Capture of deployed application](./assets/screencapture-127-0-0-1-5500-HW02-AdvancedCSS-index-html-2022-03-22-23_05_12.png)
 
+![Capture of deployed application](./assets/Capture1.PNG)
+
+![Capture of deployed application](./assets/Capture2.PNG)
+
 ![Screen capture of desktop](./assets/Capture.PNG)
