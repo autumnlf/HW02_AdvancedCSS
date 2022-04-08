@@ -3,7 +3,7 @@
 
 
 **Link to deployed application:**
->https://autumnlf.github.io/HW02_AdvancedCSS/
+>https://autumnlf.github.io/Portfolio-Site_class-assignment/
 
 
 ## Description
