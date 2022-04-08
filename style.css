@@ -254,31 +254,31 @@ li:nth-child(2){
 }
 
 .pic1{
-    background-image: url(./assets/Slide28.JPG);
+    background-image: url(./assets/3.PNG);
     width: 100%;
     height: 500px;
 }
 
 .pic2{
-    background-image: url(./assets/Happy\ Plate.jpg);
+    background-image: url(./assets/Capture3.PNG);
     height: 200px;
     flex: 1 0 40%;
 }
 
 .pic3{
-    background-image: url(./assets/square\ thumbnails2.jpg);
+    background-image: url(./assets/Capture4.PNG);
     height: 200px;
     flex: 1 0 40%;
 }
 
 .pic4{
-    background-image: url(./assets/square\ thumbnails4.jpg);
+    background-image: url(./assets/Slide28.JPG);
     height: 200px;
     flex: 1 0 40%;
 }
 
 .pic5{
-    background-image: url(./assets/My\ Aisle.jpg);
+    background-image: url(./assets/Happy\ Plate.jpg);
     height: 200px;
     flex: 1 0 40%;
 }
