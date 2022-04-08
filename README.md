@@ -1,4 +1,4 @@
-# HW02_AdvancedCSS
+# Portfolio Site
 
 
 
@@ -7,11 +7,12 @@
 
 
 ## Description
-In this homework assignment, I was tasked with recreating a given portfolio site without any starter code.
+In this homework assignment, I was tasked with recreating a given portfolio site without any starter code. 
 *   Site to recreate:
     
     ![site to recreate](./assets/02-advanced-css-homework-demo.gif)
 
+*update: given the assignment to update the site after a big project
 
 ## Screenshots:
 
